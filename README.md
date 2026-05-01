@@ -137,7 +137,6 @@ If you wish to self-host the APIs used by Bonjourr, you can do so by following t
 
 - Install Deno runtime: https://docs.deno.com/runtime/
 - Optionally add Deno extension for [VSCode](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno) or [Zed](https://zed.dev/docs/languages/deno)
-- Or a Prettier extension for [VSCode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - Clone this repository
 - Install dependencies
 - Build Bonjourr
@@ -150,7 +149,6 @@ deno install
 deno task chrome
 deno task edge
 deno task firefox
-deno task safari
 deno task online
 ```
 
@@ -176,7 +174,7 @@ deno task online
 
 #### Safari
 
-- Follow install steps on the [Safari repository](https://github.com/victrme/Bonjourr-Safari)
+- The Safari extension is no longer supported. See [our Ko-fi post about it](https://ko-fi.com/post/On-why-we-wont-be-renewing-our-Apple-Developer-ac-W7W31WQTJ5).
 
 #### Online (web version)
 

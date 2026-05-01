@@ -10,7 +10,6 @@ Use Deno when running tasks.
   - Chrome: `deno task chrome`
   - Firefox: `deno task firefox`
   - Edge: `deno task edge`
-  - Safari: `deno task safari`
   - Online (Web version): `deno task online`
 - Serve Locally: `deno task serve` (runs on port 8000 by default)
 
