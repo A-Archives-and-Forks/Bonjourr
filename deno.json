@@ -7,7 +7,6 @@
         "firefox": "deno run --allow-all ./tasks/build.ts firefox dev",
         "online": "deno run --allow-all ./tasks/build.ts online dev",
         "serve": "deno run --allow-net --allow-read ./tasks/serve.ts 8000",
-        "translate": "deno run --allow-all ./tasks/translate.ts && deno fmt",
         "test": "deno test --allow-read --allow-env --reporter=dot",
         "types": "deno check",
         "format": "deno fmt",

@@ -72,15 +72,6 @@ Bonjourr strictly follows Deno's built-in formatting and linting rules.
 
 ---
 
-## 4. Internationalization (i18n)
-
-- All user-facing strings should be localized.
-- Use `traduction(null, sync.lang)` for initial translation and `setTranslationCache` for caching.
-- To update translations after adding new keys to `_locales`, run:
-  ```bash
-  deno task translate
-  ```
-
 ## 6. Feature Script & Settings Architecture
 
 ### Core Entry Point: The Dispatcher
