@@ -30,7 +30,7 @@ While it aims to look and feel minimal, it still brings you lots of options to c
 [<img src="https://labels.tahoe.be/chrome_download_dark.svg" height="53" alt="Download Bonjourr for Chrome">](https://chrome.google.com/webstore/detail/bonjourr-%C2%B7-minimalist-lig/dlnejlppicbjfcfcedcflplfjajinajd)
 [<img src="https://labels.tahoe.be/firefox_download_dark.svg" height="53" alt="Download Bonjourr for Firefox">](https://addons.mozilla.org/firefox/addon/bonjourr-startpage/)
 [<img src="https://labels.tahoe.be/edge_download_dark.svg" height="53" alt="Download Bonjourr for Edge">](https://microsoftedge.microsoft.com/addons/detail/bonjourr-%C2%B7-minimalist-l/dehmmlejmefjphdeoagelkpaoolicmid)
-[<img src="https://labels.tahoe.be/safari_download_dark.svg" height="53" alt="Download Bonjourr for Safari">](https://apps.apple.com/fr/app/bonjourr-startpage/id1615431236)
+[<img src="https://labels.tahoe.be/safari_download_dark.svg" height="53" alt="Download Bonjourr for Safari">]([https://apps.apple.com/fr/app/bonjourr-startpage/id1615431236](https://bonjourr.fr/docs/#safari))
 
 You can also [try it online 🌎](https://online.bonjourr.fr) before installing.
 
@@ -85,6 +85,7 @@ If you feel like we've earned it and you want to support independant open source
 
 - No frameworks, plain Typescript & CSS
 - Only small dependencies, [more on npmgraph](https://npmgraph.js.org/?q=https://raw.githubusercontent.com/victrme/Bonjourr/master/package.json#color=outdated)
+- No vibe coding
 - Our tiny hands 🙌
 
 <br>
@@ -96,7 +97,7 @@ If you feel like we've earned it and you want to support independant open source
 
 <br>
 
-## 🧑‍💻 Contributors and translations
+## 🌏 Translators
 
 - **🇸🇪 Swedish translation** · [Benjamin Horn](https://benjaminhorn.io/) · [GitHub](https://github.com/beije)
 - **🇳🇱 Dutch translation** · [Osman Temiz](https://www.reddit.com/user/manllac)
@@ -128,7 +129,11 @@ If you feel like we've earned it and you want to support independant open source
 - **🇧🇾 Belarusian translation** · Eduard Račkoŭski · [GitHub](https://github.com/The518thGuy)
 - **🇰🇷 Korean translation** · Kim JeongHyeon · [GitHub](https://github.com/kimtibber)
 
-## 👨‍💻 Running Bonjourr
+## 👨‍💻 On pull requests
+
+Bonjourr is open to pull requests, but they do need to be in the spirit of the extension. If you'd like to add a feature, please [open an issue](https://github.com/victrme/Bonjourr/issues) before you start working on it so we can discuss of its implementation.
+
+## 🏃‍♂️ Running Bonjourr
 
 ### Self-host APIs
 
