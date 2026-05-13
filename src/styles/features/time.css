@@ -44,6 +44,7 @@
     font-weight: 200;
     font-weight: var(--font-weight-clock);
     direction: ltr;
+   	font-variant-numeric: tabular-nums;
 }
 
 .digital[data-ampm-label][data-ampm][data-ampmposition='top-right'],

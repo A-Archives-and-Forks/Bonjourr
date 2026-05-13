@@ -165,6 +165,7 @@ body.pomodoro-focus:has(#pomodoro_container:not(.hidden)) #interface {
 
 #pmdr_timer {
     display: block;
+   	font-variant-numeric: tabular-nums;
 }
 
 #pomodoro_container.onFocus #pmdr_timer {
