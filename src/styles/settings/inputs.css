@@ -126,8 +126,7 @@ aside select {
     }
 }
 
-aside input::placeholder,
-aside input[type='text'] {
+aside input::placeholder {
     color: var(--color-placeholder);
 }
 
