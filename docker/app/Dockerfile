@@ -1,11 +1,11 @@
-FROM denoland/deno:2.6.3 AS builder
+FROM denoland/deno AS builder
 
 WORKDIR /app
 COPY . .
 RUN deno install
 RUN deno task build
 
-FROM denoland/deno:2.6.3
+FROM denoland/deno
 
 EXPOSE 8000
 WORKDIR /app
